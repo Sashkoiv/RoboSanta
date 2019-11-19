@@ -1,1 +1,4 @@
 # RoboSanta
+
+
+![](/doc/robosanta.jpg)
